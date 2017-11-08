@@ -1,11 +1,12 @@
 /* Nav Bar CSS */
-ul{
+
+ul {
     margin: 0 auto;
 }
 
-#container2{
+#container2 {
     margin-top: 20px;
-    
+
 }
 
 
@@ -15,28 +16,55 @@ header .portrait {
 }
 
 
-.img-circle{
+.img-circle {
     border-radius: 100%;
 }
+
 /* Header CSS */
 
+span {
+    font-size: 20px;
+    font-family: arial;
 
+}
+
+
+#container2{
+    background-color: #053684;
+    color: white;
+}
+
+.thumbnail {
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.nav-tabs .nav-link {
+    color: #053684;
+}
+
+.nav-tabs .nav-link:hover{
+    color:#0746af;
+}
 /* Section CSS */
+.btn{
+    background-color: white;
+    color: black;
+} 
 
-
-
+.btn:hover{
+    background-color:#dee1e5;
+    color:#053684;
+}
 /* About Section CSS */
-
-
 
 /* Portfolio Item CSS */
 
-
-
 /* Footer CSS */
 
-
-
 /* Button CSS */
-
-
