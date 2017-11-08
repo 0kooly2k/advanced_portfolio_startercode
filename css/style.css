@@ -3,8 +3,22 @@ ul{
     margin: 0 auto;
 }
 
-/* Header CSS */
+#container2{
+    margin-top: 20px;
+    
+}
 
+
+
+header .portrait {
+    height: 200px;
+}
+
+
+.img-circle{
+    border-radius: 100%;
+}
+/* Header CSS */
 
 
 /* Section CSS */
